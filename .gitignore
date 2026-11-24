@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+*secrets*
